@@ -83,11 +83,6 @@
     <dependencies>
         <dependency>
             <groupId>org.prolobjectlink</groupId>
-            <artifactId>prolobjectlink-jpi</artifactId>
-            <version>[1.0.0, )</version>
-        </dependency>
-        <dependency>
-            <groupId>org.prolobjectlink</groupId>
             <artifactId>prolobjectlink-jpi-jlog</artifactId>
             <version>1.0.0</version>
         </dependency>
