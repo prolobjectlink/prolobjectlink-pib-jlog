@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.prolobjectlink</groupId>
     <artifactId>prolobjectlink-jpb-jlog</artifactId>
-    <version>1.0.0</version>
+    <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     
     <url>https://github.com/prolobjectlink/${project.name}</url>
@@ -84,7 +84,7 @@
         <dependency>
             <groupId>org.prolobjectlink</groupId>
             <artifactId>prolobjectlink-jpi-jlog</artifactId>
-            <version>1.0.0</version>
+            <version>[1.0-SNAPSHOT, )</version>
         </dependency>
         <dependency>
             <groupId>org.openjdk.jmh</groupId>
